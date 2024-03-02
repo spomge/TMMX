@@ -1,5 +1,5 @@
 use clap::Parser;
-
+#[allow(dead_code)]
 #[derive(Debug, Parser)]
 struct Cli {
     method: String,
@@ -7,6 +7,7 @@ struct Cli {
     arg2: Option<String>
 }
 
+// Get the arguments and returns them
 pub fn start() -> (String, Option<String>, Option<String>) {
 
     let args = Cli::parse();
