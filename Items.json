@@ -1,0 +1,1102 @@
+{
+  "Action": {
+    "demand": 4,
+    "type": "MAD",
+    "value": 40000
+  },
+  "Adamantium Gun": {
+    "demand": 4,
+    "type": "LEGENDARY",
+    "value": 30000
+  },
+  "Adamantium Knife": {
+    "demand": 4,
+    "type": "LEGENDARY",
+    "value": 30000
+  },
+  "Aluminum Gun": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Aluminum Knife": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Ancient Wand (1.0)": {
+    "demand": 4,
+    "type": "COLLECTOR",
+    "value": 200000
+  },
+  "Ancient Wand (2.0)": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 70000
+  },
+  "Aqua": {
+    "demand": 2,
+    "type": "BASIC",
+    "value": 300
+  },
+  "Ash Gun": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Ash Knife": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Asteroid Gun": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Asteroid Knife": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Astral Gun": {
+    "demand": 5,
+    "type": "ULTIMATE",
+    "value": 220000
+  },
+  "Astral Knife": {
+    "demand": 5,
+    "type": "ULTIMATE",
+    "value": 220000
+  },
+  "Aurora Gun": {
+    "demand": 5,
+    "type": "EPIC",
+    "value": -1
+  },
+  "Aurora Knife": {
+    "demand": 5,
+    "type": "EPIC",
+    "value": -1
+  },
+  "BALLER": {
+    "demand": 3,
+    "type": "MAD",
+    "value": 30000
+  },
+  "BALLER (Blue)": {
+    "demand": 3,
+    "type": "MAD",
+    "value": 30000
+  },
+  "Bacon Gun": {
+    "demand": 2,
+    "type": "UNCOMMON",
+    "value": 100
+  },
+  "Bacon Knife": {
+    "demand": 2,
+    "type": "UNCOMMON",
+    "value": 100
+  },
+  "Bad Kitten": {
+    "demand": 4,
+    "type": "MYTHICAL",
+    "value": 140000
+  },
+  "Banana Knife": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Big Iron": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Blue Flame Gun": {
+    "demand": 5,
+    "type": "RARE",
+    "value": -1
+  },
+  "Blue Flame Knife": {
+    "demand": 5,
+    "type": "RARE",
+    "value": -1
+  },
+  "Blueberry Knife": {
+    "demand": 4,
+    "type": "LEGENDARY",
+    "value": 30000
+  },
+  "Boiling Heart": {
+    "demand": 4,
+    "type": "COLLECTOR",
+    "value": -1
+  },
+  "Broken Heart": {
+    "demand": 5,
+    "type": "COLLECTOR",
+    "value": -1
+  },
+  "Bronze Gun": {
+    "demand": 2,
+    "type": "RARE",
+    "value": 300
+  },
+  "Bronze Knife": {
+    "demand": 2,
+    "type": "RARE",
+    "value": 300
+  },
+  "Brütal": {
+    "demand": 4,
+    "type": "MAD",
+    "value": 40000
+  },
+  "Building Blocks": {
+    "demand": 5,
+    "type": "EPIC",
+    "value": -1
+  },
+  "Candy Gun": {
+    "demand": 5,
+    "type": "COLLECTOR",
+    "value": 5000000
+  },
+  "Candy Knife": {
+    "demand": 5,
+    "type": "COLLECTOR",
+    "value": 5000000
+  },
+  "Cap Gun": {
+    "demand": 5,
+    "type": "RARE",
+    "value": -1
+  },
+  "Checkmate": {
+    "demand": 5,
+    "type": "ULTIMATE",
+    "value": -1
+  },
+  "Chess Club": {
+    "demand": 5,
+    "type": "ULTIMATE",
+    "value": -1
+  },
+  "Citrus Gun": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Comet (1.0)": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 40000
+  },
+  "Comet (2.0)": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 24000
+  },
+  "Commando Knife (1.0)": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 70000
+  },
+  "Commando Knife (2.0)": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 60000
+  },
+  "Constellation Gun": {
+    "demand": 4,
+    "type": "COLLECTOR",
+    "value": 60000
+  },
+  "Constellation Knife": {
+    "demand": 4,
+    "type": "COLLECTOR",
+    "value": 60000
+  },
+  "Copper Gun": {
+    "demand": 2,
+    "type": "UNCOMMON",
+    "value": 100
+  },
+  "Copper Knife": {
+    "demand": 2,
+    "type": "UNCOMMON",
+    "value": 100
+  },
+  "Cosmic Cat": {
+    "demand": 4,
+    "type": "COLLECTOR",
+    "value": 160000
+  },
+  "Cosmic Gun": {
+    "demand": 4,
+    "type": "COLLECTOR",
+    "value": 400000
+  },
+  "Cosmic Knife": {
+    "demand": 4,
+    "type": "COLLECTOR",
+    "value": 400000
+  },
+  "Cosplay Knife": {
+    "demand": 5,
+    "type": "LEGENDARY",
+    "value": -1
+  },
+  "Cow": {
+    "demand": 2,
+    "type": "UNCOMMON",
+    "value": 100
+  },
+  "Damascus Gun": {
+    "demand": 2,
+    "type": "UNCOMMON",
+    "value": 100
+  },
+  "Damascus Knife": {
+    "demand": 2,
+    "type": "UNCOMMON",
+    "value": 100
+  },
+  "Dark Sunset": {
+    "demand": 4,
+    "type": "MYTHICAL",
+    "value": 140000
+  },
+  "Darkwood Gun": {
+    "demand": 2,
+    "type": "RARE",
+    "value": 300
+  },
+  "Darkwood Knife": {
+    "demand": 2,
+    "type": "RARE",
+    "value": 300
+  },
+  "Delirium": {
+    "demand": 4,
+    "type": "MAD",
+    "value": 40000
+  },
+  "Diamond Tester": {
+    "demand": 3,
+    "type": "MAD",
+    "value": 20000
+  },
+  "Dirt": {
+    "demand": 3,
+    "type": "UNCOMMON",
+    "value": 500
+  },
+  "Dirty Cleaver": {
+    "demand": 4,
+    "type": "MAD",
+    "value": 40000
+  },
+  "Dog": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Double Trouble": {
+    "demand": 5,
+    "type": "ULTIMATE",
+    "value": 220000
+  },
+  "Dragon's Breath": {
+    "demand": 4,
+    "type": "MYTHICAL",
+    "value": 140000
+  },
+  "Dragonbone Knife": {
+    "demand": 2,
+    "type": "RARE",
+    "value": 300
+  },
+  "Electro": {
+    "demand": 4,
+    "type": "EPIC",
+    "value": 50000
+  },
+  "Explosive Knife": {
+    "demand": 3,
+    "type": "MAD",
+    "value": 20000
+  },
+  "Fabergé Egg (1.0)": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 100000
+  },
+  "Fabergé Egg (2.0)": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 60000
+  },
+  "Fabergé Gun (1.0)": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 120000
+  },
+  "Fabergé Gun (2.0)": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 60000
+  },
+  "Fabergé Knife (1.0)": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 120000
+  },
+  "Fabergé Knife (2.0)": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 60000
+  },
+  "Fairy Wand (1.0)": {
+    "demand": 4,
+    "type": "COLLECTOR",
+    "value": 160000
+  },
+  "Fairy Wand (2.0)": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 60000
+  },
+  "Flintlock": {
+    "demand": 2,
+    "type": "RARE",
+    "value": 300
+  },
+  "Forged Knife": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Fox": {
+    "demand": 2,
+    "type": "EPIC",
+    "value": 2000
+  },
+  "Furnace": {
+    "demand": 5,
+    "type": "ULTIMATE",
+    "value": 220000
+  },
+  "Fuzzy Gun": {
+    "demand": 3,
+    "type": "EPIC",
+    "value": 2000
+  },
+  "Fuzzy Knife": {
+    "demand": 3,
+    "type": "EPIC",
+    "value": 2000
+  },
+  "Galaxy Sniper": {
+    "demand": 3,
+    "type": "MYTHICAL",
+    "value": 100000
+  },
+  "Gel Blaster": {
+    "demand": 5,
+    "type": "EPIC",
+    "value": -1
+  },
+  "Gift Mimic": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 24000
+  },
+  "Gingerbread Gun": {
+    "demand": 5,
+    "type": "LEGENDARY",
+    "value": -1
+  },
+  "Gingerbread Knife": {
+    "demand": 5,
+    "type": "LEGENDARY",
+    "value": -1
+  },
+  "Glitter Slime Gun": {
+    "demand": 4,
+    "type": "LEGENDARY",
+    "value": 30000
+  },
+  "Glitter Slime Knife": {
+    "demand": 4,
+    "type": "LEGENDARY",
+    "value": 30000
+  },
+  "Godwood Gun": {
+    "demand": 5,
+    "type": "ULTIMATE",
+    "value": 220000
+  },
+  "Godwood Knife": {
+    "demand": 5,
+    "type": "ULTIMATE",
+    "value": 220000
+  },
+  "Gold Gun": {
+    "demand": 4,
+    "type": "LEGENDARY",
+    "value": 30000
+  },
+  "Gold Knife": {
+    "demand": 4,
+    "type": "LEGENDARY",
+    "value": 30000
+  },
+  "Gold Star": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 24000
+  },
+  "Golden Pan": {
+    "demand": 2,
+    "type": "MAD",
+    "value": 350000
+  },
+  "Green Flame Gun": {
+    "demand": 5,
+    "type": "UNCOMMON",
+    "value": -1
+  },
+  "Green Flame Knife": {
+    "demand": 5,
+    "type": "UNCOMMON",
+    "value": -1
+  },
+  "Gumball": {
+    "demand": 5,
+    "type": "ULTIMATE",
+    "value": 220000
+  },
+  "Hagalaz": {
+    "demand": 4,
+    "type": "MAD",
+    "value": 40000
+  },
+  "Hand Cannon": {
+    "demand": 4,
+    "type": "MAD",
+    "value": 40000
+  },
+  "Hardened Gun": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Hardened Knife": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Heart (1.0)": {
+    "demand": 4,
+    "type": "COLLECTOR",
+    "value": 130000
+  },
+  "Heart (2.0)": {
+    "demand": 4,
+    "type": "COLLECTOR",
+    "value": 70000
+  },
+  "Heavy Blaster (1.0)": {
+    "demand": 5,
+    "type": "COLLECTOR",
+    "value": 1600000
+  },
+  "Heavy Blaster (2.0)": {
+    "demand": 4,
+    "type": "COLLECTOR",
+    "value": 100000
+  },
+  "Honey Knife": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Hotshot": {
+    "demand": 5,
+    "type": "ULTIMATE",
+    "value": -1
+  },
+  "Ice Cream Gun": {
+    "demand": 4,
+    "type": "LEGENDARY",
+    "value": 30000
+  },
+  "Icicle": {
+    "demand": 5,
+    "type": "ULTIMATE",
+    "value": -1
+  },
+  "Iron Gun": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Iron Knife": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Jigsaw Gun": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Jigsaw Knife": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Katana": {
+    "demand": 3,
+    "type": "MYTHICAL",
+    "value": 100000
+  },
+  "Kyber (1.0)": {
+    "demand": 5,
+    "type": "COLLECTOR",
+    "value": 1600000
+  },
+  "Kyber (2.0)": {
+    "demand": 4,
+    "type": "COLLECTOR",
+    "value": 100000
+  },
+  "Laser Tag": {
+    "demand": 5,
+    "type": "LEGENDARY",
+    "value": -1
+  },
+  "Lava": {
+    "demand": 5,
+    "type": "LEGENDARY",
+    "value": 16000000
+  },
+  "Lawn Order": {
+    "demand": 3,
+    "type": "UNCOMMON",
+    "value": 500
+  },
+  "Lucky Katana": {
+    "demand": 4,
+    "type": "MYTHICAL",
+    "value": 140000
+  },
+  "Mahogany Gun": {
+    "demand": 3,
+    "type": "EPIC",
+    "value": 2000
+  },
+  "Mahogany Knife": {
+    "demand": 3,
+    "type": "EPIC",
+    "value": 2000
+  },
+  "Mana Blade": {
+    "demand": 4,
+    "type": "MAD",
+    "value": 40000
+  },
+  "Mars Gun": {
+    "demand": 2,
+    "type": "RARE",
+    "value": 300
+  },
+  "Mars Knife": {
+    "demand": 2,
+    "type": "RARE",
+    "value": 300
+  },
+  "Melon Knife": {
+    "demand": 2,
+    "type": "RARE",
+    "value": 300
+  },
+  "Merf Gun": {
+    "demand": 2,
+    "type": "UNCOMMON",
+    "value": 100
+  },
+  "Merf Knife": {
+    "demand": 2,
+    "type": "UNCOMMON",
+    "value": 100
+  },
+  "Metal Pipe": {
+    "demand": 3,
+    "type": "MAD",
+    "value": 20000
+  },
+  "Mithril Gun": {
+    "demand": 4,
+    "type": "EPIC",
+    "value": 2000
+  },
+  "Mithril Knife": {
+    "demand": 4,
+    "type": "EPIC",
+    "value": 2000
+  },
+  "Moon Gun": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Moon Knife": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Mountain": {
+    "demand": 3,
+    "type": "RARE",
+    "value": 1200
+  },
+  "Neptune Gun": {
+    "demand": 3,
+    "type": "EPIC",
+    "value": 2000
+  },
+  "Neptune Knife": {
+    "demand": 3,
+    "type": "EPIC",
+    "value": 2000
+  },
+  "Nicholas Gun": {
+    "demand": 0,
+    "type": "BASIC",
+    "value": -1
+  },
+  "Nicholas Knife": {
+    "demand": 0,
+    "type": "BASIC",
+    "value": -1
+  },
+  "Nightfall": {
+    "demand": 4,
+    "type": "MAD",
+    "value": 40000
+  },
+  "Oak Gun": {
+    "demand": 2,
+    "type": "UNCOMMON",
+    "value": 100
+  },
+  "Oak Knife": {
+    "demand": 2,
+    "type": "UNCOMMON",
+    "value": 100
+  },
+  "Orange Flame Gun": {
+    "demand": 5,
+    "type": "LEGENDARY",
+    "value": -1
+  },
+  "Orange Flame Knife": {
+    "demand": 5,
+    "type": "LEGENDARY",
+    "value": -1
+  },
+  "Orange Gun": {
+    "demand": 0,
+    "type": "UNCOMMON",
+    "value": -1
+  },
+  "Orange Knife": {
+    "demand": 0,
+    "type": "UNCOMMON",
+    "value": -1
+  },
+  "Overseer AWP": {
+    "demand": 4,
+    "type": "MYTHICAL",
+    "value": 140000
+  },
+  "Ozone": {
+    "demand": 4,
+    "type": "EPIC",
+    "value": 50000
+  },
+  "Paladin": {
+    "demand": 4,
+    "type": "MAD",
+    "value": 40000
+  },
+  "Panda": {
+    "demand": 2,
+    "type": "RARE",
+    "value": 300
+  },
+  "Parrot": {
+    "demand": 4,
+    "type": "LEGENDARY",
+    "value": 45000
+  },
+  "Passion Striker (1.0)": {
+    "demand": 4,
+    "type": "COLLECTOR",
+    "value": 160000
+  },
+  "Passion Striker (2.0)": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 60000
+  },
+  "Pea Shooter": {
+    "demand": 2,
+    "type": "RARE",
+    "value": 300
+  },
+  "Pig": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Pine Gun": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Pine Knife": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Planet X Gun": {
+    "demand": 4,
+    "type": "LEGENDARY",
+    "value": 30000
+  },
+  "Planet X Knife": {
+    "demand": 4,
+    "type": "LEGENDARY",
+    "value": 30000
+  },
+  "Platinum Gun": {
+    "demand": 5,
+    "type": "ULTIMATE",
+    "value": 220000
+  },
+  "Platinum Knife": {
+    "demand": 5,
+    "type": "ULTIMATE",
+    "value": 220000
+  },
+  "Pop-It Gun": {
+    "demand": 2,
+    "type": "RARE",
+    "value": 300
+  },
+  "Pop-It Knife": {
+    "demand": 2,
+    "type": "RARE",
+    "value": 300
+  },
+  "Present Gun": {
+    "demand": 0,
+    "type": "RARE",
+    "value": -1
+  },
+  "Present Knife": {
+    "demand": 0,
+    "type": "RARE",
+    "value": -1
+  },
+  "Purple Flame Gun": {
+    "demand": 5,
+    "type": "EPIC",
+    "value": -1
+  },
+  "Purple Flame Knife": {
+    "demand": 5,
+    "type": "EPIC",
+    "value": -1
+  },
+  "Quarrel Breaker (1.0)": {
+    "demand": 4,
+    "type": "COLLECTOR",
+    "value": 160000
+  },
+  "Quarrel Breaker (2.0)": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 60000
+  },
+  "Reindeer": {
+    "demand": 5,
+    "type": "COLLECTOR",
+    "value": 2400000
+  },
+  "Robo-Knife": {
+    "demand": 5,
+    "type": "RARE",
+    "value": -1
+  },
+  "Rock Candy": {
+    "demand": 5,
+    "type": "ULTIMATE",
+    "value": 220000
+  },
+  "Rose Gun (1.0)": {
+    "demand": 5,
+    "type": "COLLECTOR",
+    "value": 40000
+  },
+  "Rose Gun (2.0)": {
+    "demand": 4,
+    "type": "COLLECTOR",
+    "value": 40000
+  },
+  "Rose Knife (1.0)": {
+    "demand": 5,
+    "type": "COLLECTOR",
+    "value": 40000
+  },
+  "Rose Knife (2.0)": {
+    "demand": 4,
+    "type": "COLLECTOR",
+    "value": 40000
+  },
+  "Royal Hero": {
+    "demand": 4,
+    "type": "MAD",
+    "value": 40000
+  },
+  "Rune Dagger": {
+    "demand": 3,
+    "type": "MAD",
+    "value": 20000
+  },
+  "Sakura": {
+    "demand": 4,
+    "type": "MYTHICAL",
+    "value": 140000
+  },
+  "Salt & Pepper": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Scorch Torch": {
+    "demand": 5,
+    "type": "ULTIMATE",
+    "value": -1
+  },
+  "Silenced Pistol (1.0)": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 70000
+  },
+  "Silenced Pistol (2.0)": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 60000
+  },
+  "Silver Gun": {
+    "demand": 3,
+    "type": "EPIC",
+    "value": 2000
+  },
+  "Silver Knife": {
+    "demand": 3,
+    "type": "EPIC",
+    "value": 2000
+  },
+  "Sinister Gun (1.0)": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 60000
+  },
+  "Sinister Gun (2.0)": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 40000
+  },
+  "Sinister Knife (1.0)": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 60000
+  },
+  "Sinister Knife (2.0)": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 40000
+  },
+  "Snake Ladder": {
+    "demand": 5,
+    "type": "UNCOMMON",
+    "value": -1
+  },
+  "Snow Gun": {
+    "demand": 0,
+    "type": "BASIC",
+    "value": -1
+  },
+  "Snow Knife": {
+    "demand": 0,
+    "type": "BASIC",
+    "value": -1
+  },
+  "Soaker": {
+    "demand": 5,
+    "type": "UNCOMMON",
+    "value": -1
+  },
+  "Spearmint Gun": {
+    "demand": 4,
+    "type": "COLLECTOR",
+    "value": 280000
+  },
+  "Spearmint Knife": {
+    "demand": 4,
+    "type": "COLLECTOR",
+    "value": 280000
+  },
+  "Spooky Ghost": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 40000
+  },
+  "Spooky Pumpkin": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 24000
+  },
+  "Squeaky Mallet": {
+    "demand": 5,
+    "type": "ULTIMATE",
+    "value": 220000
+  },
+  "Squeaky Piggy": {
+    "demand": 5,
+    "type": "ULTIMATE",
+    "value": 220000
+  },
+  "Star Gun (1.0)": {
+    "demand": 4,
+    "type": "COLLECTOR",
+    "value": 70000
+  },
+  "Star Gun (2.0)": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 40000
+  },
+  "Star Knife (1.0)": {
+    "demand": 4,
+    "type": "COLLECTOR",
+    "value": 70000
+  },
+  "Star Knife (2.0)": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 40000
+  },
+  "Starlight Gun": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 50000
+  },
+  "Starlight Knife": {
+    "demand": 3,
+    "type": "COLLECTOR",
+    "value": 50000
+  },
+  "Stone Cold": {
+    "demand": 3,
+    "type": "RARE",
+    "value": 1200
+  },
+  "Sweetroll": {
+    "demand": 4,
+    "type": "EPIC",
+    "value": 2000
+  },
+  "Teddy Gun": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Teddy Knife": {
+    "demand": 1,
+    "type": "BASIC",
+    "value": 20
+  },
+  "Troll Knife": {
+    "demand": 3,
+    "type": "MAD",
+    "value": 20000
+  },
+  "Tundra": {
+    "demand": 5,
+    "type": "ULTIMATE",
+    "value": -1
+  },
+  "Venus Gun": {
+    "demand": 2,
+    "type": "UNCOMMON",
+    "value": 100
+  },
+  "Venus Knife": {
+    "demand": 2,
+    "type": "UNCOMMON",
+    "value": 100
+  },
+  "Volcano": {
+    "demand": 5,
+    "type": "LEGENDARY",
+    "value": 20000000
+  },
+  "Waffle Knife": {
+    "demand": 4,
+    "type": "EPIC",
+    "value": 2000
+  },
+  "Water": {
+    "demand": 2,
+    "type": "BASIC",
+    "value": 300
+  },
+  "White Flame Gun": {
+    "demand": 5,
+    "type": "BASIC",
+    "value": -1
+  },
+  "White Flame Knife": {
+    "demand": 5,
+    "type": "BASIC",
+    "value": -1
+  },
+  "Yellow Flame Gun": {
+    "demand": 5,
+    "type": "BASIC",
+    "value": -1
+  },
+  "Yellow Flame Knife": {
+    "demand": 5,
+    "type": "BASIC",
+    "value": -1
+  },
+  "Yggdrasil Gun": {
+    "demand": 4,
+    "type": "LEGENDARY",
+    "value": 30000
+  },
+  "Yggdrasil Knife": {
+    "demand": 4,
+    "type": "LEGENDARY",
+    "value": 30000
+  }
+}
