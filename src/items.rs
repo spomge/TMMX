@@ -35,8 +35,10 @@ pub fn auto_correct(missed_name: String) -> Option<String> {
     // words it could be
     let mut items_it_could_be: Vec<String> = Vec::new();
 
+    let missedname_lowercase = missed_name.to_lowercase(); 
+
     // goes through the list and finds if a match
-    let (first_word, _) = missed_name.to_lowercase().split_once(' ').unwrap_or((missed_name.to_lowercase().as_str(), ""));
+    let (first_word, _) = missedname_lowercase.split_once(' ').unwrap_or((missedname_lowercase.as_str(), ""));
     for (name, _value) in json_table_index.iter() {
         if name.to_lowercase().contains(&String::from(first_word).to_lowercase()) {
             println!("{}. {}", items_it_could_be.len() + 1, name);
