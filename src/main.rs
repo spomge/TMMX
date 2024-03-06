@@ -3,11 +3,9 @@ mod items;
 mod cli;
 mod file;
 
-
 fn main() {
 
     let (method, arg1, arg2) = cli::start();
-
     match method.as_str() {
 
         "help" => {
@@ -19,13 +17,11 @@ fn main() {
 
         "FI" => {
             let maybe_item = items::get_item_info(arg1.as_ref().unwrap().as_str());
-
             if maybe_item.is_some() {
                 println!("The value is: {:#?}", maybe_item.unwrap());
             } else {
                 println!("could not find: {:#?}", arg1.as_ref().unwrap())
             }
-
         },
 
         "FITV" => {
@@ -33,7 +29,6 @@ fn main() {
                 arg1.as_ref().unwrap().as_str(),
                 arg2.unwrap().parse().expect("need an number")
             );
-
             if maybe_total_value.is_some() {
                 println!("Total value is {}", maybe_total_value.unwrap())
             } else {

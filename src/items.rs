@@ -20,6 +20,7 @@ pub struct ItemInfo {
 
 }
 
+// Give the incorrect name and will try to match it with something in items.json
 pub fn auto_correct(missed_name: String) -> Option<String> {
 
     // finds the item.json folder
@@ -31,10 +32,11 @@ pub fn auto_correct(missed_name: String) -> Option<String> {
     // unwraps json and index's it
     let json_table_index = json_object.as_object().expect("corrupted json");
 
-    // could be vec
+    // words it could be
     let mut items_it_could_be: Vec<String> = Vec::new();
 
-    let (first_word, _) = missed_name.split_once(' ').unwrap_or((missed_name.as_str(), ""));
+    // goes through the list and finds if a match
+    let (first_word, _) = missed_name.to_lowercase().split_once(' ').unwrap_or((missed_name.to_lowercase().as_str(), ""));
     for (name, _value) in json_table_index.iter() {
         if name.to_lowercase().contains(&String::from(first_word).to_lowercase()) {
             println!("{}. {}", items_it_could_be.len() + 1, name);
@@ -42,16 +44,19 @@ pub fn auto_correct(missed_name: String) -> Option<String> {
         }
     }
 
+    // if nil then just return None
     if items_it_could_be.is_empty() {
         return None
     }
 
+    // asks for input from the user (has to be a number)
     let mut line = String::new();
     println!("choose an index: ");
     stdin().read_line(&mut line).expect("could not read input!");
 
     let read_index: usize = line.trim().parse().expect("needs to be a number");
 
+    // if it found th index then return the item else return None
     let index = items_it_could_be.get(read_index - 1);
     if index.is_some() {
         Some(index.unwrap().to_owned())
@@ -63,8 +68,10 @@ pub fn auto_correct(missed_name: String) -> Option<String> {
 
 pub fn get_item_total_value(name: &str, amount: i64) -> Option<i64> {
 
+    // Tries to find the item
     let maybe_item = get_item_info(name);
 
+    // if found then get the value and multiply it by amount else return None
     if maybe_item.is_some() {
         Some(maybe_item.unwrap().value * amount)
     } else {
@@ -84,9 +91,10 @@ pub fn get_all_items_with(item_type: String) -> Option<Vec<String>> {
     // unwraps json and index's it
     let json_table_index = json_object.as_object().expect("corrupted json");
 
-    // all items
+    // all items with the type
     let mut items: Vec<String> = Vec::new();
 
+    // goes through the json table and checks it
     for (name, value) in json_table_index.iter() {
 
         if value["type"].as_str().expect("currupted type format") == item_type.as_str() {
@@ -95,6 +103,7 @@ pub fn get_all_items_with(item_type: String) -> Option<Vec<String>> {
 
     }
 
+    // if the item is empty then return None else Some
     if items.is_empty() {
         None
     } else {
@@ -124,12 +133,16 @@ pub fn get_item_info(name: &str) -> Option<ItemInfo> {
             _type: String::from(value.unwrap()["type"].as_str().unwrap()),
         })
     } else {
+        // tries to auto correct
         let item  = auto_correct(String::from(name));
+
+        // if it found a correction then return it else None
         if item.is_some() {
             get_item_info(item.unwrap().as_str())
         } else {
             None
         }
+
     }
 
 }
